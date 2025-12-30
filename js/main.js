@@ -22,10 +22,10 @@ let curr_track = document.createElement('audio');
 // Define las pistas que se deben reproducir
 let track_list = [
   {
-    name: "Belleza y fealdad",
+    name: "Belleza y Fealdad",
     artist: "IA",
     image: "img/belleza-y-fealdad.jpg?auto=compress&cs=tinysrgb&dpr=3&h=256&w=256",
-    path: "music/Belleza y fealdad.mp3"
+    path: "music/Belleza y Fealdad.mp3"
   },
 	{
 		name: "No teníamos nada",
