@@ -70,10 +70,10 @@ let track_list = [
     path: "music/Eternos.mp3"
   },
   {
-    name: "Belleza y Fealdad",
+    name: "Belleza y fealdad",
     artist: "IA",
     image: "img/belleza-y-fealdad.jpg?auto=compress&cs=tinysrgb&dpr=3&h=256&w=256",
-    path: "music/Belleza y fealdad.mp3"
+    path: "music/Belleza y Fealdad.mp3"
   },
 	{
 		name: "No teníamos nada",
