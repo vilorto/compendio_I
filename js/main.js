@@ -22,6 +22,54 @@ let curr_track = document.createElement('audio');
 // Define las pistas que se deben reproducir
 let track_list = [
   {
+    name: "Llueve y tú",
+    artist: "IA",
+    image: "img/llueve-y-tu.jpg?auto=compress&cs=tinysrgb&dpr=3&h=256&w=256",
+    path: "music/Llueve y tú.mp3"
+  },
+  {
+    name: "Amor profundo",
+    artist: "IA",
+    image: "img/amor-profundo.jpg?auto=compress&cs=tinysrgb&dpr=3&h=256&w=256",
+    path: "music/Amor profundo.mp3"
+  },
+  {
+    name: "Te alejé para cuidarte",
+    artist: "IA",
+    image: "img/te-aleje-para-cuidarte.jpg?auto=compress&cs=tinysrgb&dpr=3&h=256&w=256",
+    path: "music/Te alejé para cuidarte.mp3"
+  },
+  {
+    name: "Eres tú",
+    artist: "IA",
+    image: "img/eres-tu.jpg?auto=compress&cs=tinysrgb&dpr=3&h=256&w=256",
+    path: "music/Eres tú.mp3"
+  },
+  {
+    name: "Cuando una mujer se ha ido",
+    artist: "IA",
+    image: "img/cuando-una-mujer-se-ha-ido.jpg?auto=compress&cs=tinysrgb&dpr=3&h=256&w=256",
+    path: "music/Cuando una mujer se ha ido.mp3"
+  },
+  {
+    name: "Regresaste",
+    artist: "IA",
+    image: "img/regresaste.jpg?auto=compress&cs=tinysrgb&dpr=3&h=256&w=256",
+    path: "music/Regresaste.mp3"
+  },
+  {
+    name: "Vuelven a brillar",
+    artist: "IA",
+    image: "img/vuelven-a-brillar.jpg?auto=compress&cs=tinysrgb&dpr=3&h=256&w=256",
+    path: "music/Vuelven a brillar.mp3"
+  },
+  {
+    name: "Eternos",
+    artist: "IA",
+    image: "img/eternos.jpg?auto=compress&cs=tinysrgb&dpr=3&h=256&w=256",
+    path: "music/Eternos.mp3"
+  },
+  {
     name: "Belleza y fealdad",
     artist: "IA",
     image: "img/belleza-y-fealdad.jpg?auto=compress&cs=tinysrgb&dpr=3&h=256&w=256",
